@@ -183,4 +183,17 @@ div.left-section {
         object-fit: cover;
         width: 300px;
     }
+
+    .imgs-div>img:first-child {
+        position: absolute;
+        display: none;
+        bottom: 8px;
+        left: 400px;
+    }
+    .imgs-div>img:nth-child(2) {
+        display: none;
+        position: absolute;
+        bottom: 92px;
+        left: 450px;
+    }
 }
