@@ -171,3 +171,16 @@ div.left-section {
     }
 }
 
+@media(max-width:500px)
+{
+
+    nav{
+        padding: 20px;
+        align-items: center;
+        gap: 20px;
+    }
+    .intro-img{
+        object-fit: cover;
+        width: 300px;
+    }
+}
