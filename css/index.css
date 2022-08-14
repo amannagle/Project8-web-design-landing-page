@@ -22,7 +22,7 @@ nav {
 div.toggle-button{
     position: absolute;
     top: 2.2rem;
-    right: 30%;
+    right: 10%;
     display: none;
     flex-direction: column;
     justify-content: space-between;
